@@ -22,36 +22,26 @@ Busco minha primeira oportunidade de **estágio em desenvolvimento**, onde eu po
 - Java ☕  
 - Python  
 - JavaScript  
-- C  
+- C
+- HTML 5
+- CSS
 
-### **Frameworks / Bibliotecas**
-- Spring Boot  
+### **Frameworks / Bibliotecas** 
 - React  
 
 ### **Banco de Dados**
-- SQL  
-- MySQL  
+ 
 - MongoDB  
 
 ### **Ferramentas**
 - Git & GitHub  
-- Postman / Insomnia  
 - Maven  
 
 ---
 
 ## 📌 Projetos em Destaque
 
-### 🔹 **API REST – Cadastro de Produtos (Java + Spring Boot)**
-CRUD completo usando Spring Boot + JPA + H2  
-➡️ *em desenvolvimento*
 
-### 🔹 **Sistema bancário em Java (POO)**
-Projeto console com classes, herança e polimorfismo.  
-➡️ *em desenvolvimento*
-
-### 🔹 **Mini jogos e exercícios em Python e JavaScript**
-Repositório com vários exercícios e pequenos projetos do meu aprendizado.
 
 ---
 
