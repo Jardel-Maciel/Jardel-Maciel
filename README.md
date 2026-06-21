@@ -1,6 +1,6 @@
 <h1 align="center">👋 Olá, eu sou Jardel Maciel dos Santos</h1>
 
-<h3 align="center">Estudante de Ciência da Computação | Desenvolvedor Java em formação</h3>
+<h3 align="center">Estudante de Ciência da Computação | Desenvolvedor </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jardel-maciel-dos-santos">LinkedIn</a> •
